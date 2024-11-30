@@ -2,11 +2,11 @@
 
 |  Name | Score |
 | -- | -- |
-| player0 | 20873 |
-| player1 | 20862 |
+| player1 | 20530 |
+| player0 | 20307 |
+| cc | 7513 |
 | apsl | 0 |
 | auha | 0 |
-| cc | 0 |
 | dujean | 0 |
 | hrj | 0 |
 | leo | 0 |
@@ -21,11 +21,11 @@
 ## Problem 1
 |  Name | Score | Mutual Information |
 | -- | -- | -- |
-| player1 | 10098 |  0.40791  |
-| player0 | 10049 |  0.40786  |
+| player1 | 9662 |  0.40791  |
+| player0 | 9658 |  0.40786  |
+| cc | 7513 |  0.38642  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  0.31128  |
-| cc | 0 |  0.39469  |
 | dujean | 0 |  0.31128  |
 | hrj | 0 |  0.31128  |
 | leo | 0 |  0.31128  |
@@ -40,8 +40,8 @@
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| player0 | 10824 |  0.13198  |
-| player1 | 10764 |  0.13271  |
+| player1 | 10868 |  0.13145  |
+| player0 | 10649 |  0.13415  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  Invalid  |
 | cc | 0 |  Invalid  |
