@@ -2,16 +2,16 @@
 
 |  Name | Score |
 | -- | -- |
-| player0 | 20542 |
-| player1 | 20530 |
-| hrj | 15557 |
-| cc | 8282 |
+| player1 | 20481 |
+| player0 | 20462 |
+| hrj | 15966 |
+| met | 8507 |
+| cc | 8052 |
 | apsl | 0 |
 | auha | 0 |
 | dujean | 0 |
 | leo | 0 |
 | maurice | 0 |
-| met | 0 |
 | mh | 0 |
 | mrl | 0 |
 | qubyte | 0 |
@@ -23,14 +23,14 @@
 | -- | -- | -- |
 | player1 | 9662 |  0.40791  |
 | player0 | 9658 |  0.40786  |
-| cc | 8282 |  0.39410  |
+| met | 8507 |  0.39636  |
+| cc | 8052 |  0.39181  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  0.31128  |
 | dujean | 0 |  0.31128  |
 | hrj | 0 |  0.31128  |
 | leo | 0 |  0.31128  |
 | maurice | 0 |  0.31128  |
-| met | 0 |  0.31128  |
 | mh | 0 |  0.31128  |
 | mrl | 0 |  0.31128  |
 | qubyte | 0 |  Invalid  |
@@ -40,9 +40,9 @@
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| hrj | 15557 |  0.09183  |
-| player0 | 10884 |  0.13125  |
-| player1 | 10868 |  0.13144  |
+| hrj | 15966 |  0.08947  |
+| player1 | 10819 |  0.13203  |
+| player0 | 10804 |  0.13222  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  Invalid  |
 | cc | 0 |  Invalid  |
