@@ -2,12 +2,12 @@
 
 |  Name | Score |
 | -- | -- |
-| player1 | 20655 |
-| player0 | 20572 |
-| hrj | 15875 |
+| player0 | 20879 |
+| player1 | 20780 |
+| hrj | 16789 |
 | qubyte | 10001 |
+| cc | 8998 |
 | met | 8470 |
-| cc | 6747 |
 | apsl | 0 |
 | auha | 0 |
 | dujean | 0 |
@@ -24,8 +24,8 @@
 | qubyte | 10001 |  0.41130  |
 | player1 | 9662 |  0.40791  |
 | player0 | 9658 |  0.40786  |
+| cc | 8998 |  0.40126  |
 | met | 8470 |  0.39598  |
-| cc | 6747 |  0.37875  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  0.31128  |
 | dujean | 0 |  0.31128  |
@@ -40,9 +40,9 @@
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| hrj | 15875 |  0.08999  |
-| player1 | 10993 |  0.12995  |
-| player0 | 10914 |  0.13089  |
+| hrj | 16789 |  0.08509  |
+| player0 | 11221 |  0.12730  |
+| player1 | 11118 |  0.12848  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  Invalid  |
 | cc | 0 |  Invalid  |
