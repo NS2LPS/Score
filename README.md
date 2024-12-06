@@ -2,12 +2,13 @@
 
 |  Name | Score |
 | -- | -- |
-| player0 | 20879 |
-| player1 | 20780 |
-| hrj | 16789 |
+| player0 | 20660 |
+| player1 | 20532 |
+| hrj | 16299 |
+| vinzhu | 10006 |
 | qubyte | 10001 |
-| cc | 8998 |
-| met | 8470 |
+| met | 8482 |
+| cc | 5188 |
 | apsl | 0 |
 | auha | 0 |
 | dujean | 0 |
@@ -16,16 +17,16 @@
 | mh | 0 |
 | mrl | 0 |
 | sdb | 0 |
-| vinzhu | 0 |
 
 ## Problem 1
 |  Name | Score | Mutual Information |
 | -- | -- | -- |
+| vinzhu | 10006 |  0.41135  |
 | qubyte | 10001 |  0.41130  |
 | player1 | 9662 |  0.40791  |
 | player0 | 9658 |  0.40786  |
-| cc | 8998 |  0.40126  |
-| met | 8470 |  0.39598  |
+| met | 8482 |  0.39611  |
+| cc | 5188 |  0.36317  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  0.31128  |
 | dujean | 0 |  0.31128  |
@@ -35,14 +36,13 @@
 | mh | 0 |  0.31128  |
 | mrl | 0 |  0.31128  |
 | sdb | 0 |  0.31128  |
-| vinzhu | 0 |  0.31128  |
 
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| hrj | 16789 |  0.08509  |
-| player0 | 11221 |  0.12730  |
-| player1 | 11118 |  0.12848  |
+| hrj | 16299 |  0.08764  |
+| player0 | 11002 |  0.12985  |
+| player1 | 10870 |  0.13142  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  Invalid  |
 | cc | 0 |  Invalid  |
