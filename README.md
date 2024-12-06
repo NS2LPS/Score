@@ -1,14 +1,15 @@
 # High Scores
+Last update Fri Dec  6 19:57:48 2024
 
 |  Name | Score |
 | -- | -- |
-| player0 | 20660 |
-| player1 | 20532 |
-| hrj | 16299 |
+| player1 | 20881 |
+| player0 | 20776 |
+| hrj | 16341 |
 | vinzhu | 10006 |
 | qubyte | 10001 |
-| met | 8482 |
-| cc | 5188 |
+| met | 8378 |
+| cc | 5724 |
 | apsl | 0 |
 | auha | 0 |
 | dujean | 0 |
@@ -25,8 +26,8 @@
 | qubyte | 10001 |  0.41130  |
 | player1 | 9662 |  0.40791  |
 | player0 | 9658 |  0.40786  |
-| met | 8482 |  0.39611  |
-| cc | 5188 |  0.36317  |
+| met | 8378 |  0.39506  |
+| cc | 5724 |  0.36852  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  0.31128  |
 | dujean | 0 |  0.31128  |
@@ -40,9 +41,9 @@
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| hrj | 16299 |  0.08764  |
-| player0 | 11002 |  0.12985  |
-| player1 | 10870 |  0.13142  |
+| hrj | 16341 |  0.08742  |
+| player1 | 11219 |  0.12733  |
+| player0 | 11118 |  0.12848  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  Invalid  |
 | cc | 0 |  Invalid  |
