@@ -1,16 +1,16 @@
 # High Scores
-Last update Mon Dec  9 13:29:19 2024
+Last update Tue Dec 10 23:40:52 2024
 
 |  Name | Score |
 | -- | -- |
-| player1 | 20728 |
-| player0 | 20624 |
-| vinzhu | 20400 |
-| hrj | 15789 |
-| mh | 10854 |
+| hrj | 26035 |
+| player0 | 20609 |
+| player1 | 20606 |
+| vinzhu | 20443 |
+| mh | 10770 |
 | qubyte | 10001 |
-| met | 8470 |
-| cc | 6255 |
+| met | 8472 |
+| cc | 6748 |
 | apsl | 0 |
 | auha | 0 |
 | dujean | 0 |
@@ -22,16 +22,16 @@ Last update Mon Dec  9 13:29:19 2024
 ## Problem 1
 |  Name | Score | Mutual Information |
 | -- | -- | -- |
+| hrj | 10046 |  0.41174  |
 | vinzhu | 10006 |  0.41135  |
 | qubyte | 10001 |  0.41130  |
 | player1 | 9662 |  0.40791  |
 | player0 | 9658 |  0.40786  |
-| met | 8470 |  0.39598  |
-| cc | 6255 |  0.37384  |
+| met | 8472 |  0.39600  |
+| cc | 6748 |  0.37877  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  0.31128  |
 | dujean | 0 |  0.31128  |
-| hrj | 0 |  Invalid  |
 | leo | 0 |  0.31128  |
 | maurice | 0 |  0.31128  |
 | mh | 0 |  0.31128  |
@@ -41,11 +41,11 @@ Last update Mon Dec  9 13:29:19 2024
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| hrj | 15789 |  0.09048  |
-| player1 | 11066 |  0.12909  |
-| player0 | 10966 |  0.13027  |
-| mh | 10854 |  0.13161  |
-| vinzhu | 10394 |  0.13744  |
+| hrj | 15989 |  0.08935  |
+| player0 | 10951 |  0.13045  |
+| player1 | 10944 |  0.13052  |
+| mh | 10770 |  0.13264  |
+| vinzhu | 10437 |  0.13687  |
 | apsl | 0 |  Invalid  |
 | auha | 0 |  Invalid  |
 | cc | 0 |  Invalid  |
