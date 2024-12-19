@@ -1,20 +1,20 @@
 # High Scores
-Last update Wed Dec 18 10:46:48 2024
+Last update Thu Dec 19 10:20:41 2024
 
 |  Name | Score |
 | -- | -- |
-| qubyte | 26393 |
-| dujean | 26297 |
-| hrj | 25528 |
+| mh | 34567 |
+| qubyte | 26321 |
+| dujean | 26130 |
+| hrj | 25587 |
 | leo | 22075 |
-| player0 | 20664 |
-| player1 | 20651 |
-| vinzhu | 20064 |
-| mh | 18718 |
+| player1 | 20646 |
+| player0 | 20586 |
+| vinzhu | 19952 |
+| cc | 19601 |
+| aspl | 10318 |
 | met | 8452 |
-| apsl | 0 |
 | auha | 0 |
-| cc | 0 |
 | maurice | 0 |
 | mrl | 0 |
 | sdb | 0 |
@@ -28,12 +28,12 @@ Last update Wed Dec 18 10:46:48 2024
 | dujean | 10006 |  0.41135  |
 | vinzhu | 10006 |  0.41135  |
 | qubyte | 10001 |  0.41130  |
-| player1 | 9662 |  0.40791  |
 | player0 | 9658 |  0.40786  |
+| player1 | 9658 |  0.40786  |
+| cc | 8496 |  0.39624  |
 | met | 8452 |  0.39580  |
-| apsl | 0 |  Invalid  |
+| aspl | 0 |  0.31128  |
 | auha | 0 |  0.31128  |
-| cc | 0 |  Invalid  |
 | maurice | 0 |  0.31128  |
 | mrl | 0 |  0.31128  |
 | sdb | 0 |  0.31128  |
@@ -41,19 +41,19 @@ Last update Wed Dec 18 10:46:48 2024
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| qubyte | 16392 |  0.08715  |
-| dujean | 16291 |  0.08769  |
-| hrj | 15482 |  0.09227  |
-| player0 | 11006 |  0.12979  |
-| player1 | 10989 |  0.12999  |
-| vinzhu | 10058 |  0.14203  |
-| apsl | 0 |  Invalid  |
+| qubyte | 16320 |  0.08753  |
+| dujean | 16124 |  0.08860  |
+| mh | 15849 |  0.09013  |
+| hrj | 15541 |  0.09192  |
+| cc | 11105 |  0.12864  |
+| player1 | 10988 |  0.13001  |
+| player0 | 10928 |  0.13071  |
+| aspl | 10318 |  0.13844  |
+| vinzhu | 9946 |  0.14362  |
 | auha | 0 |  Invalid  |
-| cc | 0 |  Invalid  |
 | leo | 0 |  Invalid  |
 | maurice | 0 |  Invalid  |
 | met | 0 |  Invalid  |
-| mh | 0 |  Invalid  |
 | mrl | 0 |  Invalid  |
 | sdb | 0 |  Invalid  |
 
