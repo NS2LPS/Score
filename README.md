@@ -1,18 +1,18 @@
 # High Scores
-Last update Fri Dec 20 16:11:31 2024
+Last update Fri Dec 20 17:44:45 2024
 
 |  Name | Score |
 | -- | -- |
-| mh | 34999 |
-| dujean | 26728 |
-| qubyte | 26326 |
-| hrj | 26054 |
-| leo | 22075 |
-| vinzhu | 21988 |
-| cc | 21469 |
-| player1 | 20848 |
-| player0 | 20786 |
-| aspl | 19544 |
+| mh | 35251 |
+| dujean | 26959 |
+| qubyte | 26622 |
+| hrj | 26219 |
+| leo | 25097 |
+| vinzhu | 22124 |
+| cc | 21895 |
+| player1 | 20934 |
+| player0 | 20878 |
+| aspl | 19384 |
 | met | 8452 |
 | auha | 0 |
 | maurice | 0 |
@@ -22,7 +22,7 @@ Last update Fri Dec 20 16:11:31 2024
 ## Problem 1
 |  Name | Score | Mutual Information |
 | -- | -- | -- |
-| leo | 22075 |  0.53203  |
+| leo | 25097 |  0.56226  |
 | mh | 18718 |  0.49847  |
 | hrj | 10046 |  0.41174  |
 | dujean | 10006 |  0.41135  |
@@ -41,15 +41,15 @@ Last update Fri Dec 20 16:11:31 2024
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| dujean | 16722 |  0.08543  |
-| qubyte | 16325 |  0.08750  |
-| mh | 16281 |  0.08774  |
-| hrj | 16008 |  0.08924  |
-| cc | 12973 |  0.11012  |
-| vinzhu | 11982 |  0.11922  |
-| player1 | 11190 |  0.12766  |
-| player0 | 11128 |  0.12837  |
-| aspl | 10760 |  0.13277  |
+| dujean | 16953 |  0.08426  |
+| qubyte | 16621 |  0.08595  |
+| mh | 16533 |  0.08640  |
+| hrj | 16173 |  0.08833  |
+| cc | 13399 |  0.10662  |
+| vinzhu | 12118 |  0.11789  |
+| player1 | 11276 |  0.12669  |
+| player0 | 11220 |  0.12731  |
+| aspl | 10600 |  0.13476  |
 | auha | 0 |  Invalid  |
 | leo | 0 |  Invalid  |
 | maurice | 0 |  Invalid  |
