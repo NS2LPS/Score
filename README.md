@@ -8,12 +8,12 @@ Final scores (Sat Dec 21 11:20:34 2024)
 | dujean | 27086 |
 | qubyte | 26557 |
 | hrj | 26279 |
+| maurice | 24534 |
 | vinzhu | 21986 |
 | cc | 21841 |
 | player0 | 20899 |
 | player1 | 20882 |
 | aspl | 19344 |
-| maurice | 14501 |
 | sdb | 11092 |
 | met | 8452 |
 | auha | 0 |
@@ -25,6 +25,7 @@ Final scores (Sat Dec 21 11:20:34 2024)
 | leo | 25097 |  0.56226  |
 | mh | 18718 |  0.49847  |
 | hrj | 10046 |  0.41174  |
+| maurice | 10033 |  0.41161  |
 | dujean | 10006 |  0.41135  |
 | vinzhu | 10006 |  0.41135  |
 | qubyte | 10001 |  0.41130  |
@@ -34,7 +35,6 @@ Final scores (Sat Dec 21 11:20:34 2024)
 | cc | 8496 |  0.39624  |
 | met | 8452 |  0.39580  |
 | auha | 0 |  Invalid  |
-| maurice | 0 |  Invalid  |
 | mrl | 0 |  0.31128  |
 | sdb | 0 |  Invalid  |
 
