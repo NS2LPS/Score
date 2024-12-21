@@ -1,20 +1,20 @@
 # High Scores
-Final scores (Sat Dec 21 10:59:37 2024)
+Final scores (Sat Dec 21 11:20:34 2024)
 
 |  Name | Score |
 | -- | -- |
-| leo | 39545 |
-| mh | 35368 |
-| dujean | 26823 |
-| qubyte | 26613 |
-| hrj | 26157 |
-| vinzhu | 21994 |
-| cc | 21728 |
-| player1 | 20883 |
-| player0 | 20882 |
-| aspl | 19157 |
-| maurice | 13752 |
-| sdb | 11113 |
+| leo | 39580 |
+| mh | 35321 |
+| dujean | 27086 |
+| qubyte | 26557 |
+| hrj | 26279 |
+| vinzhu | 21986 |
+| cc | 21841 |
+| player0 | 20899 |
+| player1 | 20882 |
+| aspl | 19344 |
+| maurice | 14501 |
+| sdb | 11092 |
 | met | 8452 |
 | auha | 0 |
 | mrl | 0 |
@@ -41,18 +41,18 @@ Final scores (Sat Dec 21 10:59:37 2024)
 ## Problem2
 |  Name | Score | Time |
 | -- | -- | -- |
-| dujean | 16817 |  0.08495  |
-| mh | 16650 |  0.08580  |
-| qubyte | 16612 |  0.08599  |
-| hrj | 16111 |  0.08867  |
-| leo | 14448 |  0.09887  |
-| maurice | 13752 |  0.10388  |
-| cc | 13232 |  0.10796  |
-| vinzhu | 11988 |  0.11916  |
-| player1 | 11225 |  0.12726  |
-| player0 | 11224 |  0.12727  |
-| sdb | 11113 |  0.12855  |
-| aspl | 10373 |  0.13772  |
+| dujean | 17080 |  0.08364  |
+| mh | 16603 |  0.08604  |
+| qubyte | 16556 |  0.08628  |
+| hrj | 16233 |  0.08800  |
+| maurice | 14501 |  0.09851  |
+| leo | 14483 |  0.09864  |
+| cc | 13345 |  0.10705  |
+| vinzhu | 11980 |  0.11924  |
+| player0 | 11241 |  0.12708  |
+| player1 | 11224 |  0.12728  |
+| sdb | 11092 |  0.12878  |
+| aspl | 10560 |  0.13528  |
 | auha | 0 |  Invalid  |
 | met | 0 |  Invalid  |
 | mrl | 0 |  Invalid  |
