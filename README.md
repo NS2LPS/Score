@@ -15,9 +15,9 @@ Final scores (Sat Dec 21 11:20:34 2024)
 | player1 | 20882 |
 | aspl | 19344 |
 | mrl | 17817 |
+| auha | 11811 |
 | sdb | 11092 |
 | met | 8452 |
-| auha | 0 |
 
 ## Problem 1
 |  Name | Score | Mutual Information |
@@ -49,11 +49,11 @@ Final scores (Sat Dec 21 11:20:34 2024)
 | leo | 14483 |  0.09864  |
 | cc | 13345 |  0.10705  |
 | vinzhu | 11980 |  0.11924  |
+| auha | 11811 |  0.12095  |
 | player0 | 11241 |  0.12708  |
 | player1 | 11224 |  0.12728  |
 | sdb | 11092 |  0.12878  |
 | aspl | 10560 |  0.13528  |
 | mrl | 8914 |  0.16026  |
-| auha | 0 |  Invalid  |
 | met | 0 |  Invalid  |
 
