@@ -14,10 +14,10 @@ Final scores (Sat Dec 21 11:20:34 2024)
 | player0 | 20899 |
 | player1 | 20882 |
 | aspl | 19344 |
+| mrl | 17817 |
 | sdb | 11092 |
 | met | 8452 |
 | auha | 0 |
-| mrl | 0 |
 
 ## Problem 1
 |  Name | Score | Mutual Information |
@@ -31,11 +31,11 @@ Final scores (Sat Dec 21 11:20:34 2024)
 | qubyte | 10001 |  0.41130  |
 | player0 | 9658 |  0.40786  |
 | player1 | 9658 |  0.40786  |
+| mrl | 8903 |  0.40031  |
 | aspl | 8784 |  0.39912  |
 | cc | 8496 |  0.39624  |
 | met | 8452 |  0.39580  |
 | auha | 0 |  Invalid  |
-| mrl | 0 |  0.31128  |
 | sdb | 0 |  Invalid  |
 
 ## Problem2
@@ -53,7 +53,7 @@ Final scores (Sat Dec 21 11:20:34 2024)
 | player1 | 11224 |  0.12728  |
 | sdb | 11092 |  0.12878  |
 | aspl | 10560 |  0.13528  |
+| mrl | 8914 |  0.16026  |
 | auha | 0 |  Invalid  |
 | met | 0 |  Invalid  |
-| mrl | 0 |  Invalid  |
 
